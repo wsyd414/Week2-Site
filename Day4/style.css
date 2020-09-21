@@ -1,0 +1,29 @@
+div {
+    height: 300px;
+    width: 200px;
+    
+}
+
+.yellow, .white {
+    margin-left: 20px;
+}
+
+.blue {
+    background-color: blue;
+    display: inline-block;
+}
+
+.yellow {
+    background-color: yellow;
+    display: inline-block;
+}
+
+.red {
+    background-color: red;
+  
+}
+
+.white{
+    border: dotted black;
+    display: inline-table;
+}
